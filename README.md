@@ -3,9 +3,8 @@
 A Streamlit app to analyze sales pipeline data with a clean, professional Telkomsel-red theme across charts and tables.
 
 ## Features
-- Consistent single-accent Telkomsel red theme for all visuals
-- Bagian 1: CV by segment/quarter, top/bottom deals, open pipeline, pivot summaries
-- Bagian 2: Sales cycle time, stage→close durations, SE view, win rate, Top AM views
+- Chap 1: CV by segment/quarter, top/bottom deals, open pipeline, pivot summaries
+- Chap 2: Sales cycle time, stage→close durations, SE view, win rate, Top AM views
 - Industry Segment normalization to Lines of Business (LoB) via mapping
 - Minimal, readable table styling with subtle accents (no gradients)
 
