@@ -1,4 +1,4 @@
-# Sales Pipeline Analyzer (Telkomsel Theme)
+# Sales Pipeline Analyzer 
 
 A Streamlit app to analyze sales pipeline data with a clean, professional Telkomsel-red theme across charts and tables.
 
